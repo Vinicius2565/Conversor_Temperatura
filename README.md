@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README - Conversor de Temperatura</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -53,8 +47,6 @@
             text-decoration: underline;
         }
     </style>
-</head>
-<body>
     <div class="container">
         <h1>Conversor de Temperatura</h1>
 
@@ -101,5 +93,3 @@
         <p>Este projeto está licenciado sob a Licença MIT. Para mais informações, consulte o arquivo LICENSE no repositório.</p>
 
     </div>
-</body>
-</html>
