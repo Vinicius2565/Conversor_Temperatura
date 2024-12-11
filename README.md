@@ -11,7 +11,7 @@ Simulação de um conversor de temperaturas para converter valores entre Celsius
 ## Estrutura do Projeto
 
 - **Backend**: Desenvolvido em Java com Spring Boot. Fornece uma API REST com endpoints para realizar as conversões.
-- **Frontend**: Desenvolvido com HTML, CSS e JavaScript, permitindo uma interação amigável para o usuário.
+- **Frontend**: Desenvolvido com HTML, CSS e JavaScript, permitindo uma interação amigável para o usuário e totalmente responsiva.
 
 ## Requisitos
 
